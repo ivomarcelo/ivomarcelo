@@ -18,7 +18,6 @@ What drives me is challenges! With experience in React, TypeScript, Vue.js, Node
 
 ![git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![npm](https://img.shields.io/badge/NPM-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![yarn](https://img.shields.io/badge/Yarn-2C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 ![pnpm](https://img.shields.io/badge/pnpm-F69220.svg?style=for-the-badge&logo=pnpm&logoColor=fff)
 ![docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
@@ -36,12 +35,6 @@ What drives me is challenges! With experience in React, TypeScript, Vue.js, Node
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![mysql](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![postgresql](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🧪 Testing
-
-![jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![vitest](https://img.shields.io/badge/Vitest-86b91a?style=for-the-badge&logo=vitest&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-6DA55F?style=for-the-badge&logo=pytest&logoColor=white)
 
 ###  💌 Contacts: ⤵️
 
