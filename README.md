@@ -6,7 +6,7 @@
 <p align="left"> 
   
 <br>
-I'm from Brazil, I'm 55 years old, and I'm a <strong>Full Stack Engineer.</strong>
+I'm from Brazil, I'm 56 years old, and I'm a <strong>Full Stack Engineer.</strong>
 
 <p align="justify">
 What drives me is challenges! With experience in React, TypeScript, Node.js, Always in a process of evolution to show the best in digital solutions. From conception to implementation, I transform ideas into extraordinary products with a positive impact. Always open-minded to connect, expand my network and collaborate on revolutionary projects that redefine the digital future. Create something extraordinary as a group and together! #FullStackDeveloper #React #Nodejs #Python #Networking
